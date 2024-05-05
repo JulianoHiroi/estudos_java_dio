@@ -1,0 +1,3 @@
+class FormatOiException extends Exception {
+
+}
